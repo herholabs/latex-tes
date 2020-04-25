@@ -1,1 +1,1 @@
-# Tes kolaborasi riset gitlab
+# Tes kolaborasi riset latex
